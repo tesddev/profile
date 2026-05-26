@@ -2,7 +2,7 @@ export const portfolioData = {
   personalInfo: {
     name: "Tesleem Amuda",
     role: "Experienced Mobile Application Developer and AI Automation Engineer",
-    badge: "Mobile App Developer · AI Automation Engineer",
+    badge: "Software Developer · AI Automation Engineer",
     headline: "I build high-quality mobile apps and intelligent automation systems.",
     subheadline: "With a deep expertise in iOS and Flutter development, I bridge the gap between elegant mobile experiences and powerful AI-driven automation. I specialize in crafting scalable applications and designing intelligent workflows that streamline complex processes and enhance productivity.",
     email: "tesleem.amuda@gmail.com",
@@ -44,7 +44,7 @@ export const portfolioData = {
     mobile: ["Swift", "Flutter", "Dart", "iOS", "Cocoa Touch"],
     frontendApi: ["RESTful APIs", "Third-party Integrations", "JSON", "Async/Await"],
     workflow: ["Agile/Scrum", "Jira", "Trello", "Version Control (Git)"],
-    cloudTools: ["Azure", "Firebase", "CI/CD"],
+    cloudTools: ["AWS", "Azure", "Firebase", "Docker", "Kubernetes", "Terraform", "GitHub Actions", "CI/CD"],
     aiAutomation: ["Workflow Automation", "AI-powered Systems", "Productivity Automation", "Claude MCP", "Make.com"]
   },
   experiences: [
