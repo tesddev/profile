@@ -9,9 +9,9 @@ export const metadata: Metadata = {
   title: "Tesleem Amuda | Software Developer and AI Automation engr.",
   description: "Software Developer and AI Automation engr. Portfolio showcasing mobile apps and intelligent automation systems.",
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
-    apple: "/favicon.svg",
+    icon: "https://res.cloudinary.com/tesweb/image/upload/v1779822766/Personals/personalIcon_ioyyla.png",
+    shortcut: "https://res.cloudinary.com/tesweb/image/upload/v1779822766/Personals/personalIcon_ioyyla.png",
+    apple: "https://res.cloudinary.com/tesweb/image/upload/v1779822766/Personals/personalIcon_ioyyla.png",
   },
   openGraph: {
     title: "Tesleem Amuda | Software Developer and AI Automation engr.",
