@@ -18,11 +18,6 @@ export const metadata: Metadata = {
     description: "Software Developer and AI Automation engr. Portfolio showcasing mobile apps and intelligent automation systems.",
     type: "website",
   },
-  twitter: {
-    card: "summary_large_image",
-    title: "Tesleem Amuda | Software Developer and AI Automation engr.",
-    description: "Software Developer and AI Automation engr. Portfolio showcasing mobile apps and intelligent automation systems.",
-  },
 };
 
 export default function RootLayout({
