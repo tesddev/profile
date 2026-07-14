@@ -4,7 +4,7 @@ export const portfolioData = {
     role: "Experienced Mobile Application Developer and AI Automation Engineer",
     badge: "Software Developer · AI Automation Engineer",
     headline: "I build high-quality mobile apps and intelligent automation systems.",
-    subheadline: "With a deep expertise in iOS and Flutter development, I bridge the gap between elegant mobile experiences and powerful AI-driven automation. I specialize in crafting scalable applications and designing intelligent workflows that streamline complex processes and enhance productivity.",
+    subheadline: "With a deep expertise in iOS, Flutter, and React Native development, I bridge the gap between elegant mobile experiences and powerful AI-driven automation. I specialize in crafting scalable applications and designing intelligent workflows that streamline complex processes and enhance productivity.",
     email: "tesleem.amuda@gmail.com",
     phone: "+2349032890587",
     github: "https://github.com/tesddev",
@@ -21,7 +21,7 @@ export const portfolioData = {
   aboutHighlights: [
     {
       title: "Mobile Engineering",
-      description: "Specializing in native iOS and cross-platform Flutter development to create high-performance, scalable apps.",
+      description: "Specializing in native iOS and cross-platform Flutter and React Native development to create high-performance, scalable apps.",
       icon: "Smartphone"
     },
     {
@@ -41,7 +41,7 @@ export const portfolioData = {
     }
   ],
   skills: {
-    mobile: ["Swift", "Flutter", "Dart", "iOS", "Cocoa Touch"],
+    mobile: ["Swift", "Flutter", "React Native", "Dart", "TypeScript", "iOS", "Cocoa Touch"],
     frontendApi: ["RESTful APIs", "Third-party Integrations", "JSON", "Async/Await"],
     workflow: ["Agile/Scrum", "Jira", "Trello", "Version Control (Git)"],
     cloudTools: ["AWS", "Azure", "Firebase", "Docker", "Kubernetes", "Terraform", "GitHub Actions", "CI/CD"],
@@ -49,11 +49,11 @@ export const portfolioData = {
   },
   experiences: [
     {
-      role: "Senior Flutter Developer",
+      role: "Senior Mobile Developer",
       company: "Sparedech LTD",
       period: "June 2024 - Present",
-      description: "Leading the development of cross-platform mobile applications, ensuring high performance and seamless user experiences using Flutter and Dart.",
-      skills: ["Flutter", "Dart", "State Management", "API Integration"]
+      description: "Leading the development of cross-platform mobile applications, ensuring high performance and seamless user experiences using Flutter, React Native, and Dart.",
+      skills: ["Flutter", "React Native", "Dart", "TypeScript", "State Management", "API Integration"]
     },
     {
       role: "iOS Developer",

@@ -29,7 +29,7 @@ export default function About() {
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
               I'm a dedicated developer focused on building robust mobile applications and
               cutting-edge automation workflows. My approach combines deep technical
-              expertise in Swift and Flutter with a passion for AI, ensuring that every
+              expertise in Swift, Flutter, and React Native with a passion for AI, ensuring that every
               product I build is not just functional, but highly efficient and user-centric.
             </p>
           </div>
